@@ -15,7 +15,7 @@
     "exchange": "./dist/index.js"
   },
   "dependencies": {
-    "meow": "^8.0.0",
+    "meow": "^8.1.2",
     "ts-node": "^9.1.0",
     "typescript": "^4.1.2"
   },
